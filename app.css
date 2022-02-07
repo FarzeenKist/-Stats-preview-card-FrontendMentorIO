@@ -197,7 +197,7 @@ h3:last-child {
   display: block;
   width: 100%;
   height: 100%;
-  background: hsla(var(--clr-soft-violet) / 0.8);
+  background: hsla(var(--clr-soft-violet) / 0.4);
   position: absolute;
   top: 0;
   left: 0;
