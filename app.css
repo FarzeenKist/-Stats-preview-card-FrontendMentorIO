@@ -44,7 +44,7 @@ html {
 body,
 div,
 h1,
-h3,
+h2,
 p {
   margin: 0;
 }
@@ -185,7 +185,7 @@ main {
   margin: 0 2.8rem 2rem 2.8rem;
 }
 
-h3:last-child {
+h2:last-child {
   margin-bottom: 2rem;
 }
 
