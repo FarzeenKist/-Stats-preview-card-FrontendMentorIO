@@ -197,7 +197,8 @@ h2:last-child {
   display: block;
   width: 100%;
   height: 100%;
-  background: hsla(var(--clr-soft-violet) / 0.4);
+  background: hsl(var(--clr-soft-violet));
+  opacity: 0.5;
   position: absolute;
   top: 0;
   left: 0;
